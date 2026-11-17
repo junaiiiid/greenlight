@@ -1,0 +1,10 @@
+{
+  "name": "greenlight",
+  "displayName": "Greenlight",
+  "version": "1.0.0",
+  "description": "Get the green light from App Review. Audits your Apple app against every App Store Review Guideline, shows what you violate and what you follow with file:line evidence, scores readiness, and writes fixes, review notes and rejection replies.",
+  "author": { "name": "Junaid Tariq" },
+  "repository": "https://github.com/YOUR-GITHUB-USERNAME/greenlight",
+  "license": "MIT",
+  "keywords": ["app-store", "app-review", "ios", "swift", "swiftui", "react-native", "flutter", "privacy", "storekit", "compliance"]
+}

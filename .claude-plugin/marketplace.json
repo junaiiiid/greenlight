@@ -1,0 +1,12 @@
+{
+  "name": "greenlight",
+  "description": "Greenlight: App Store Review Guidelines audit for Claude Code",
+  "owner": { "name": "Junaid Tariq" },
+  "plugins": [
+    {
+      "name": "greenlight",
+      "source": "./",
+      "description": "Audit your Apple app against every App Store Review Guideline before you submit."
+    }
+  ]
+}
