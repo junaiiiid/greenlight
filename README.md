@@ -48,21 +48,21 @@ You don't have to remember the commands. Ask Claude *"is my app ready for the Ap
 **From GitHub (recommended):**
 
 ```bash
-claude plugin marketplace add YOUR-GITHUB-USERNAME/greenlight
+claude plugin marketplace add junaiiiid/greenlight
 claude plugin install greenlight@greenlight
 ```
 
 Or inside a Claude Code session:
 
 ```
-/plugin marketplace add YOUR-GITHUB-USERNAME/greenlight
+/plugin marketplace add junaiiiid/greenlight
 /plugin install greenlight@greenlight
 ```
 
 **From a local clone (for development):**
 
 ```bash
-git clone https://github.com/YOUR-GITHUB-USERNAME/greenlight
+git clone https://github.com/junaiiiid/greenlight
 claude --plugin-dir ./greenlight
 ```
 
